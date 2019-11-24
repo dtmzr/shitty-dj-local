@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Press Start 2p";
+  src: url("../assets/PressStart2P-Regular.ttf");
+}
+
+html,
+body,
+pre,
+code,
+samp {
+  font-family: "Press Start 2p";
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
